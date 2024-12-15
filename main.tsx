@@ -1,0 +1,1 @@
+import {} from './src/assets/images/Spotify_Primary_Logo_RGB_Green.png'
