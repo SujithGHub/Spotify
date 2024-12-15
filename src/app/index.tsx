@@ -7,6 +7,7 @@ const Main = () => {
             <Text>Main</Text>
         </View>
     )
+    
 }
 
 export default Main
